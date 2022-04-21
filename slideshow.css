@@ -264,6 +264,7 @@ a {
   }
   .control .control-bottom {
       width: 50%;
+      background-color: none;
       height: 50px;
       margin-top: 90vh;
       z-index: 5;
