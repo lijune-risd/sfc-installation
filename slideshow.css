@@ -244,7 +244,6 @@ a {
       -webkit-transform: translateY(-50%);
       text-align: center;
       position: absolute;
-      color: #aaaaaa;
       transition: all 0.3s;
       -ms-transition: all 0.3s;
       -moz-transition: all 0.3s;
@@ -264,7 +263,7 @@ a {
       color: #333333;
   }
   .control .control-bottom {
-      width: 50%
+      width: 50%;
       height: 50px;
       margin-top: 90vh;
       z-index: 5;
